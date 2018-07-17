@@ -1,0 +1,13 @@
+JQERY
+
+Why Jquery?(neden jquery)
+* DOM API tam anlamıyla çalışmamaktaydı 
+* Temiz ve kısa kod tutumu 
+* Cross Browser(her brower'da calısmasını saglamak)
+* Ajax
+* Topluluk->>Bir teknolojinin topluluğu olur ise, sorunu kısa yoldan çözebilmek vs..
+
+Why Not Use Jquery ?
+
+* DOM API not broken anymore-> tam anlamıyla calısmakta.
+* Performans maliyeti...
